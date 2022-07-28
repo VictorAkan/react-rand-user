@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+}
+
+.bottom__line {
+  height: 0.4rem;
+  width: 6rem;
+}
+img {
+  width: 620px;
+  height: 320px;
+}
+.card {
+  border: none;
+  width: 620px;
+}
+.text-info {
+  background-color: #e0f4f9;
+  border-radius: 0.3rem;
+  padding: 0.2rem;
+}
+.read {
+  color: red;
+}
+
